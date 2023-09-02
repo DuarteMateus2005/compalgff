@@ -14,4 +14,3 @@ for i in range(5):
         print("Not an oddd minute.")
 
     time.sleep(wait_time)
-    
